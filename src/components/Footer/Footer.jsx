@@ -11,8 +11,7 @@ const Footer = () => {
           className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold
          md:w-2/5"
         >
-          <span className="text-teal-400">Free</span> until you're ready to
-          launch
+          <span className="text-teal-400">Get</span>  in Touch With us for Latest Updates
         </h1>
         <div>
           <input
@@ -25,7 +24,7 @@ const Footer = () => {
             className="bg-teal-400 hover:bg-teal-500 duration-300 px-5 py-2.5 font-[Poppins]
            rounded-md text-white md:w-auto w-full"
           >
-            Request Code
+            Subscribe
           </button>
         </div>
       </div>
